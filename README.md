@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindo ao meu perfil 💜
 
-<!--
-**weiseisa04/weiseisa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Isabelly 
 
-Here are some ideas to get you started:
+- estou estudando no [alura](https://www.alura.com.br)
+- estounme desenvolvendo na linguagem de java script
+- utilizo esse espaço para organizaçã e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo 📫
+
+- 00001092420332so@al.educacao.sp.gob.br
+- @isabelly_w.o
+
+
+![](https://media.tenor.com/frFQUarNWE4AAAAi/penguin-dance-pengu.gif)
